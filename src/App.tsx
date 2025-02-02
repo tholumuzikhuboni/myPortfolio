@@ -99,7 +99,7 @@ function App() {
             <div className="relative mx-auto w-64 h-64">
               <div className="absolute inset-0 rounded-full animate-border bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"></div>
               <img
-                src="https://github.com/tholumuzikhuboni/blog/blob/ebb7ce9ba4980e8fe810f6da363d0017f69fa7dd/author/images/image.jpg"
+                src="https://avatars.githubusercontent.com/u/171554737/"
                 alt="Tholumuzi Khuboni"
                 className="absolute inset-[3px] rounded-full w-[calc(100%-6px)] h-[calc(100%-6px)] object-cover"
               />
